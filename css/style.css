@@ -1,0 +1,69 @@
+/*******body and text *********/
+
+
+body {
+background: #FAEBD7;
+font-family: "Helvetica", sans-serif;
+border-top: 5px solid #222222;
+border-bottom: 5px solid #222222;
+padding: 50px 50px 50px 50px;
+max-width: 0 auto;
+margin: 20px auto 0 auto;
+}
+
+a {
+	font-weight: bold;
+	color: #008080;
+}
+
+p{
+	font-family: serif;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 2.6;
+}
+
+
+dl {
+	text-align: right;
+}
+
+em {
+	color: green;
+	text-decoration: underline;
+}
+
+.two {
+	line-height:  1.5;
+}
+
+blockquote {
+	color: #8A2BE2;
+	text-align: center;
+	font: monospace;
+	letter-spacing: 5px;
+}
+
+/******* navigation **********/
+.navigation-list {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+h1,
+nav{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+/******** images ***********/
+
+img{
+	border: 1px solid #222222;
+	padding: 5px;
+	display: block;
+	margin: 0 auto 0 auto;
+}
+
